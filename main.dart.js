@@ -43848,7 +43848,7 @@ else if(j===B.aj)m.aU(new A.aoR(m))
 k=h>395
 s=k?new A.CI(i,h,l):A.kJ("",l,l,l)
 r=k?A.fV(l,l,50):A.kJ("",l,l,l)
-if(k)q=A.kJ("",l,l,l)
+if(k)q=A.kJ("Hello",l,l,l)
 else{q=t.D
 p=A.fS(A.b([A.iL("./assets/lottie/hi.json",70),A.dv(" Hi, there",B.j,$.e4(),!1,!1,B.I,30)],q),B.Y,B.z,B.G,l)
 p=A.Ig(A.b([new A.uQ(new A.aoS(i,h),B.L2,B.Kf,B.j,l,t.q3)],q),B.w,!1,l,l,l,p)
